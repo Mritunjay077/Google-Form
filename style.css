@@ -1,0 +1,123 @@
+/* Body Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #a8d08d, #d9c7b2, #a8d08d);  /* Light Green and Light Brown Gradient */
+    color: #333;  /* Dark text for better readability */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;  /* Ensure the body takes the full height of the screen */
+    margin: 0;
+    padding: 20px; /* Add extra padding to prevent the content from getting cut off */
+}
+
+/* Container with Glassmorphism Effect */
+.container {
+    backdrop-filter: blur(15px) saturate(180%);
+    background: rgba(255, 255, 255, 0.15);
+    padding: 40px 60px;  /* Increased padding for larger container */
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+    color: #333;
+    box-sizing: border-box;
+    overflow: hidden; /* Prevent overflow issues */
+}
+
+/* Form Header Styles */
+.form-header h1 {
+    color: #4e9f70;  /* Light Green Color */
+    margin-bottom: 25px;
+    font-size: 2em;  /* Increased font size */
+}
+
+.form-header p {
+    color: #6e5c4b;  /* Brownish Color */
+    margin-bottom: 20px;
+    font-size: 1em;
+}
+
+.logo {
+    width: 100px;  /* Increased logo size */
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+/* Form Group Styles (with floating labels) */
+.form-group {
+    position: relative;
+    margin-bottom: 25px;
+}
+
+/* Input fields with floating labels */
+input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 18px 10px;  /* Padding inside the input fields */
+    border: none;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    color: #333;
+    font-size: 1.2em;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus {
+    outline: none;
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+/* Label Styles */
+label {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    font-size: 1.2em;
+    color: #999;
+    transform: translateY(-50%);
+    transition: all 0.2s ease-in-out;
+}
+
+/* Move label to top left when input is focused or filled */
+input[type="text"]:focus + label,
+input[type="email"]:focus + label,
+input[type="password"]:focus + label,
+input[type="text"]:valid + label,
+input[type="email"]:valid + label,
+input[type="password"]:valid + label {
+    top: -10px;
+    left: 10px;
+    font-size: 1em;
+    color: #4e9f70;  /* Light Green Color */
+}
+
+/* Button with Neon Effect */
+button {
+    width: 100%;
+    padding: 16px;  /* Increased padding for larger button */
+    border: none;
+    border-radius: 10px;
+    background-color: #4e9f70;  /* Light Green Button */
+    color: #fff;
+    font-size: 1.2em;  /* Increased font size */
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+}
+
+/* Message Styling */
+.message {
+    margin-top: 20px;
+    color: #d9c7b2;  /* Light Brown Color for messages */
+    font-weight: bold;
+}

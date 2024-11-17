@@ -1,0 +1,464 @@
+Time: 2024-8-19  15:11:7
+Query: insert into contact (name,phone,email,msg) values('Aadarsh','9508175180','aadarsh@gmail.com','hi')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:11:7
+Query: insert into contact (name,phone,email,msg) values('Aadarsh','9508175180','aadarsh@gmail.com','hi')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:11:7
+Query: insert into contact (name,phone,email,msg) values('Aadarsh','9508175180','aadarsh@gmail.com','hi')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:11:7
+Query: insert into contact (name,phone,email,msg) values('Aadarsh','9508175180','aadarsh@gmail.com','hi')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:11:7
+Query: insert into contact (name,phone,email,msg) values('Aadarsh','9508175180','aadarsh@gmail.com','hi')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:11:7
+Query: insert into contact (name,phone,email,msg) values('Aadarsh','9508175180','aadarsh@gmail.com','hi')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:11:7
+Query: insert into contact (name,phone,email,msg) values('Aadarsh','9508175180','aadarsh@gmail.com','hi')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:27:27
+Query: insert into contact (name,phone,email,msg) values('aadarsh ','9508175180','aadarsh@gmail.com','hi')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:27:27
+Query: insert into contact (name,phone,email,msg) values('aadarsh ','9508175180','aadarsh@gmail.com','hiiii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:27:27
+Query: insert into contact (name,phone,email,msg) values('aadarsh ','9508175180','aadarsh@gmail.com','hiiii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:27:27
+Query: insert into contact (name,phone,email,msg) values('aadarsh ','9508175180','aadarsh@gmail.com','hiiii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:27:27
+Query: insert into contact (name,phone,email,msg) values('aadarsh ','9508175180','aadarsh@gmail.com','hiiii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:27:27
+Query: insert into contact (name,phone,email,msg) values('aadarsh ','9508175180','aadarsh@gmail.com','hiiii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:37:18
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:37:18
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:37:18
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:37:18
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:37:18
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:37:18
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:37:18
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:37:18
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:38:51
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:39:54
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:39:54
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:21
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:21
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:21
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:40:31
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:43:20
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:44:30
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-8-19  15:44:30
+Query: insert into contact (name,phone,email,msg) values('Aadarsh ','9508175180','aadarsh@gmail.com','hii')
+Error: Out of range value for column 'phone' at row 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('ritu kumari','132203','ritu01091@gmail.com','9693873703','ritu@123','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('ritu kumari','132203','ritu01091@gmail.com','9693873703','ritu@123','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('ritu kumari','132203','ritu01091@gmail.com','9693873703','ritu@123','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Ritu','1322073','ritu01091@gmail.com','9693873703','ritu23','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Ritu','1322073','ritu01091@gmail.com','9693873703','ritu23','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Ritu','1322073','ritu01091@gmail.com','9693873703','ritu23','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Ritu','1322073','ritu01091@gmail.com','9693873703','ritu23','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Ritu','1322073','ritu01091@gmail.com','9693873703','ritu23','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukull@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukulm@gmail.com','9508175180','1234567','undefined','undefined','undefined',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukulm@gmail.com','9508175180','1234567','undefined','undefined','undefined',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukulm@gmail.com','9508175180','1234567','undefined','undefined','undefined',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukulm@gmail.com','9508175180','1234567','undefined','undefined','undefined',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  14:55:3
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukulm@gmail.com','9508175180','1234567','undefined','undefined','undefined',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  15:6:18
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul ','1322063','mukulm@gmail.com','9508175180','1234567','undefined','undefined','undefined',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  15:6:18
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mukul','9508175180','mritunjaykumarmukul@gmail.com','9508175180','123456','Hosteler','MMAGR','BSC(HONS) AGRICULTURE',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  15:6:18
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mukul','9508175180','mritunjaykumarmukul@gmail.com','9508175180','123456','Hosteler','MMAGR','BSC(HONS) AGRICULTURE',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  15:6:18
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mukul','9508175180','mritunjaykumarmukul@gmail.com','9508175180','123456','Hosteler','MMAGR','BSC(HONS) AGRICULTURE',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  15:6:18
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mukul','9508175180','mritunjaykumarmukul@gmail.com','9508175180','123456','Hosteler','MMAGR','BSC(HONS) AGRICULTURE',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-12  15:6:18
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mukul','9508175180','mritunjaykumarmukul@gmail.com','9508175180','123456','Hosteler','MMAGR','BSC(HONS) AGRICULTURE',)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-13  13:18:6
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul','1322063','mukul123@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA,'Semester 4')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 4')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-13  13:18:6
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul','1322063','mukul123@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA,'Semester 4')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 4')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mukul','1322063','mukulm@gmail.com','1234567890','123456','Hosteler','MMICT&BM','BCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mukul','1322063','mukulm@gmail.com','1234567890','123456','Hosteler','MMICT&BM','BCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mukul','1322063','mukulm@gmail.com','1234567890','123456','Hosteler','MMICT&BM','BCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mukul','1322063','mukulm@gmail.com','1234567890','123456','Hosteler','MMICT&BM','BCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar','1322001','mukulmuk@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA,'Semester 5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar','1322001','mukulmuk@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA,'Semester 5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar','1322001','mukulmuk@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA,'Semester 5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar','1322001','mukulmuk@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA,'Semester 5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar','1322001','mukulmuk@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA,'Semester 5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:14:52
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar','1322001','mukulmuk@gmail.com','9508175180','123456','Hosteler','MMICT&BM','BCA,'Semester 5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:32:50
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar mishra','1322063','mukul1234@gmail.com','9588175180','123445','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:32:50
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar mishra','1322063','mukul1234@gmail.com','9588175180','123445','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:32:50
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar mishra','1322063','mukul1234@gmail.com','9588175180','123445','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:32:50
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kumar mishra','1322063','mukul1234@gmail.com','9588175180','123445','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:32:50
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kr','1322000','muku123l@gmail.com','9508175180','1111111','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:32:50
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kr','1322000','muku123l@gmail.com','9508175180','1111111','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:32:50
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('Mukul kr','1322000','muku123l@gmail.com','9508175180','1111111','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('Mukul kr','1322000','muku123l@gmail.com','9508175180','1111111','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('muku ','1322063','mukuyyl@gmail.com','9508175180','123456','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('muku ','1322063','mukuyyl@gmail.com','9508175180','123456','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('muku ','1322063','mukuyyl@gmail.com','9508175180','123456','MMICT&BM','MCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mk','1322063','muk33ul@gmail.com','9508175180','111111','MMICT&BM','BCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mk','1322063','muk33ul@gmail.com','9508175180','111111','MMICT&BM','BCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mk','1322063','muk33ul@gmail.com','9508175180','111111','MMICT&BM','BCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mukul','13220633','mukumml@gmail.com','9508175180','1111111','MMICT&BM','MCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mukul','13220633','mukumml@gmail.com','9508175180','1111111','MMICT&BM','MCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mukul','13220633','mukumml@gmail.com','9508175180','1111111','MMICT&BM','MCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mukul','13220633','mukumml@gmail.com','9508175180','1111111','MMICT&BM','MCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mukul','13220633','mukumml@gmail.com','9508175180','1111111','MMICT&BM','MCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mukul','13220633','mukumml@gmail.com','9508175180','1111111','MMICT&BM','MCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mk','1322063','mukulmkk@gmail.com','9508175180','000000','MMICT&BM','BCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mk','1322063','mukulmkk@gmail.com','9508175180','000000','MMICT&BM','BCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mk','1322063','mukulmkk@gmail.com','9508175180','000000','MMICT&BM','BCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mk','1322063','mukulmkk@gmail.com','9508175180','000000','MMICT&BM','BCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-14  13:35:48
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mk','1322063','mukulmkk@gmail.com','9508175180','000000','MMICT&BM','BCA,'5')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-16  9:42:31
+Query: insert into mmu (name,rollno,email,phone,password,institute,course) values('mukul mishra','123456890','mmu@gmail.com','9508175180','111111','Hosteler','MMICT&BM','BCA,'Semester 3')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 3')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-16  9:44:46
+Query: insert into mmu (name,rollno,email,phone,password,hostelStatus,institute,course) values('mmu','111111','mmu@gmail.com','9508175180','000000','Hosteler','MMICT&BM','BCA,'Semester 1')
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Semester 1')' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-16  9:57:4
+Query: INSERT INTO mmu (name, rollno, email, phone, password, hostelStatus, institute, course, semester) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?, ?, ?)' at line 1
+----------------------------------------------------------------------
+Time: 2024-9-19  9:15:14
+Query: INSERT INTO mmu (name, rollno, email, phone, password, hostelStatus, institute, course, semester, section) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+Error: Column count doesn't match value count at row 1
+----------------------------------------------------------------------
+Time: 2024-9-19  9:15:14
+Query: INSERT INTO mmu (name, rollno, email, phone, password, hostelStatus, institute, course, semester, section) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+Error: Column count doesn't match value count at row 1
+----------------------------------------------------------------------
+Time: 2024-9-19  9:21:36
+Query: INSERT INTO mmu (name, rollno, email, phone, password, hostelStatus, institute, course, semester, section) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+Error: Column count doesn't match value count at row 1
+----------------------------------------------------------------------
+Time: 2024-9-19  9:21:36
+Query: INSERT INTO mmu (name, rollno, email, phone, password, hostelStatus, institute, course, semester, section) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+Error: Column count doesn't match value count at row 1
+----------------------------------------------------------------------
+Time: 2024-9-19  9:21:36
+Query: INSERT INTO mmu (name, rollno, email, phone, password, hostelStatus, institute, course, semester, section) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+Error: Column count doesn't match value count at row 1
+----------------------------------------------------------------------
