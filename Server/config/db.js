@@ -1,10 +1,10 @@
 const mysql=require('mysql2');
 const mysqlSetting={
-    host:'localhost',
+    host:'mysql.railway.internal',
     user:'root',
-    password:'root',
+    password:'egTiUHheMqFKZDUsuWXthSECTYQsjozZ',
     port:3306,
-    database:'flutteapp',
+    database:'railway',
     multipleStatements:true,
 };
 
