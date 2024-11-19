@@ -44,7 +44,8 @@ async function registerUser() {
     };
 
     try {
-        const response = await fetch('http://localhost:55000/googleform/insert', {
+        // Update API endpoint to match the Railway deployment
+        const response = await fetch('mysql://root:RdjpiCdNovsXTRelqqGRZdMlCyhUGmKX@junction.proxy.rlwy.net:23513/railway/googleform/insert', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
