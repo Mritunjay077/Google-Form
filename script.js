@@ -1,4 +1,4 @@
-document.getElementById('registrationForm').addEventListener('submit', async function (event) {
+document.getElementById('registrationForm').addEventListener('submit', async function(event) {
     event.preventDefault();
     await registerUser();
 });
@@ -44,8 +44,7 @@ async function registerUser() {
     };
 
     try {
-        // Replace 'your-app-name' with your Railway app's name
-        const response = await fetch('junction.proxy.rlwy.net:18602/insert', {
+        const response = await fetch('http://localhost:55000/googleform/insert', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
